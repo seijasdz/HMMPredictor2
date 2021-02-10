@@ -1,0 +1,5 @@
+Extaccion de cortes generales:
+
+1 - ejecutar 'gene_data_extractor.py' para crear los cuts
+2 - ejecutar los demas scripts para obtener el resto de archivos
+
